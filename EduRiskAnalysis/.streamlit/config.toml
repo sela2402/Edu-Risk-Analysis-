@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+primaryColor = "#808080"
+backgroundColor = "#D3D3D3"
+secondaryBackgroundColor = "#D3D3D3"
+textColor = "#000000"
+dataframeBorderColor = "#A9A9A9"
+dataframeHeaderBackgroundColor = "#BEBEBE"
+chartCategoricalColors = ["#808080", "#808080", "#808080"]
